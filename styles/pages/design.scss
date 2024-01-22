@@ -1,0 +1,26 @@
+.imagensdesign{
+    width: 20em;
+}
+
+#fileira1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divdesign{
+    margin: 3em;
+    transition: 0.8s;
+}
+
+.divdesign:hover {
+    transform: scale(1.1);
+    transition: 0.8s;
+}
+
+#h1design{
+    color: white;
+    font-size: 3.5em;
+    margin-top: 1.5em;
+    margin-left: 1em;
+}
